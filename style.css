@@ -211,6 +211,7 @@ bottom: 4rem;
      padding-right:2rem;
      padding-left:1rem;
      overflow: auto;
+     width:100%;
  }
  .navbar-container img {
         width:50px;
