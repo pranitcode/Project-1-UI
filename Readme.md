@@ -12,7 +12,7 @@
 
 ![name](https://img.shields.io/badge/Pranit--Ingole-BE--Information--Technology--2022-lightgrey)
 
-<!-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.. -->
+I built this project in 6 hours, For making this project, I used HTML and CSS only. I applied some important CSS properties like CSS positioning, CSS hover effect, z-index, CSS flexbox, etc I also made it mobile responsive for 360px width resolution.   
 
 ## Technology Stack Used
 
@@ -24,7 +24,7 @@
 - Front End - **HTML**, **CSS**
 
 
-#### Shopify clone  [Preview Link](https://project-1-ui.netlify.app/)
+#### what's treand project-1-UI  [Preview Link](https://project-1-ui.netlify.app/)
 
 ---
 
@@ -38,8 +38,9 @@
 
    [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@pranitingole&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranitingole/) 
 
-***Glad to see you here! Show some love by [starring](https://github.com/pranitcode/Project-1-UI) this repo.***
+***Glad to see you here! Show some love by ❤️ [like](https://www.findcoder.io/project/what's-trend-project-one/6310fbb32d901879480a637e) this project on [findcoder](https://www.findcoder.io/u/pranitingole) .***
 
 
 ******
+
 
