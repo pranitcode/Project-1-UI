@@ -24,7 +24,7 @@ I built this project in 6 hours, For making this project, I used HTML and CSS on
 - Front End - **HTML**, **CSS**
 
 
-#### what's treand project-1-UI  [Preview Link](https://project-1-ui.netlify.app/)
+#### what's trend project-1-UI  [Preview Link](https://project-1-ui.netlify.app/)
 
 ---
 
